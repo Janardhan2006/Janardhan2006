@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:764ba2,100:f5576c&height=220&section=header&text=PRAKRUTH%20J%20V&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20(AI)%20%7C%20Full%20Stack%20%7C%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:764ba2,100:f5576c&height=220&section=header&text=JANARDHAN%20V&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20(AI)%20%7C%20Full%20Stack%20%7C%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://github.com/jvprakruth004">
+<a href="https://github.com/Janardhan2006">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Full+Stack+Developer+in+Progress;Passionate+Problem+Solver;Welcome+to+my+neural+network+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=jvprakruth004&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/jvprakruth004?label=FOLLOWERS&style=for-the-badge&color=764ba2&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=Janardhan2006&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Janardhan2006?label=FOLLOWERS&style=for-the-badge&color=764ba2&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=for-the-badge&labelColor=0d1117" />
 
 </div>
@@ -44,7 +44,7 @@ status: "compiling dreams into production code..."
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117)](https://twitter.com/YOUR_TWITTER_USERNAME)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:jvprakruth@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117)](https://your-portfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/jvprakruth004)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Janardhan2006)
 
 </div>
 
@@ -114,12 +114,12 @@ status: "compiling dreams into production code..."
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jvprakruth004&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&icon_color=00D9FF&border_radius=15"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jvprakruth004&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=f5576c&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&border_radius=15"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Janardhan2006&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&icon_color=00D9FF&border_radius=15"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Janardhan2006&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=f5576c&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&border_radius=15"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvprakruth004&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&border_radius=15"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janardhan2006&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&border_radius=15"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jvprakruth004&theme=tokyo-night&bg_color=0d1117&color=00D9FF&line=764ba2&point=f5576c&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Janardhan2006&theme=tokyo-night&bg_color=0d1117&color=00D9FF&line=764ba2&point=f5576c&hide_border=true&area=true"/>
 
 </div>
 
@@ -130,9 +130,9 @@ status: "compiling dreams into production code..."
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvprakruth004/jvprakruth004/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jvprakruth004/jvprakruth004/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/jvprakruth004/jvprakruth004/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Janardhan2006/Janardhan2006/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Janardhan2006/Janardhan2006/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Janardhan2006/Janardhan2006/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -147,11 +147,11 @@ status: "compiling dreams into production code..."
 
 | 🎬 Project | 📝 Description | 🛠️ Tech Stack | ✅ Status |
 |:-----------|:--------------|:-------------|:---------|
-| **[Furniture Industry Management System](https://github.com/jvprakruth004/furniture-management)** | Comprehensive system for furniture business operations | Node.js, React, MongoDB | 🔄 In Progress |
-| **[Birthday Website](https://jvp00400.github.io/JENNY_BIRTHDAY/)** | Interactive & festive birthday celebration website | HTML, CSS, JavaScript | ✨ Completed |
-| **[Node.js Projects](https://github.com/jvprakruth004/nodejs-projects)** | Collection of backend projects & experiments | Node.js, Express | 🔄 In Progress |
-| **[AI Projects](https://github.com/jvprakruth004/ai-projects)** | Machine learning & AI model implementations | Python, TensorFlow | 🔄 In Progress |
-| **[AWS Projects](https://github.com/jvprakruth004/aws-projects)** | Cloud infrastructure & automation solutions | AWS, Python | 🔄 In Progress |
+| **[Furniture Industry Management System](https://github.com/Janardhan2006/furniture-management)** | Comprehensive system for furniture business operations | Node.js, React, MongoDB | 🔄 In Progress |
+| **[Birthday Website](https://Janardhan2006.github.io/JENNY_BIRTHDAY/)** | Interactive & festive birthday celebration website | HTML, CSS, JavaScript | ✨ Completed |
+| **[Node.js Projects](https://github.com/Janardhan2006/nodejs-projects)** | Collection of backend projects & experiments | Node.js, Express | 🔄 In Progress |
+| **[AI Projects](https://github.com/Janardhan2006/ai-projects)** | Machine learning & AI model implementations | Python, TensorFlow | 🔄 In Progress |
+| **[AWS Projects](https://github.com/Janardhan2006/aws-projects)** | Cloud infrastructure & automation solutions | AWS, Python | 🔄 In Progress |
 
 </div>
 
@@ -228,9 +228,9 @@ I'd love to hear from you! Whether it's discussing tech, collaborating on projec
 
 ### ⭐ If you find my projects helpful, consider giving them a star!
 
-**Made with ❤️ by Prakruth J V**
+**Made with ❤️ by Janardhan V**
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=jvprakruth004.jvprakruth004&left_color=0d1117&right_color=00D9FF"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Janardhan2006.Janardhan2006&left_color=0d1117&right_color=00D9FF"/>
 
 </div>
 
