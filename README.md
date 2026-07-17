@@ -1,237 +1,298 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:764ba2,100:f5576c&height=220&section=header&text=JANARDHAN%20V&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20(AI)%20%7C%20Full%20Stack%20%7C%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+# Hi there, I'm Janardhan V <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<a href="https://github.com/Janardhan2006">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Full+Stack+Developer+in+Progress;Passionate+Problem+Solver;Welcome+to+my+neural+network+%F0%9F%A4%96" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;React+%7C+Node.js+%7C+Python+Developer;Building+AI-Powered+Solutions;Always+Learning+Something+New!" alt="Typing SVG" />
 
-<br/>
+<p>
+Passionate about building intelligent applications, solving real-world problems, and continuously exploring emerging technologies.
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Janardhan2006&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Janardhan2006?label=FOLLOWERS&style=for-the-badge&color=764ba2&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=Janardhan2006&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0d1117&height=3&width=100%"/>
+---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-<table>
-<tr>
-<td>
+🎓 Computer Science Engineering Student
 
-I'm a **Computer Science** student from **India** who believes in learning by building. I'm passionate about creating impactful projects, solving real-world problems with code, and continuously exploring new technologies. I value consistency over perfection and thrive in collaborative environments where I can contribute meaningfully.
+💡 Passionate about AI, Machine Learning, Full Stack Development, and Software Engineering.
 
-```yaml
-philosophy: "Build → Learn → Grow → Repeat"
-current_focus: [AI/ML, Full-Stack Dev, Cloud Architecture]
-status: "compiling dreams into production code..."
+🚀 I enjoy building AI-powered applications that solve real-world challenges.
+
+🌱 Constantly learning new technologies and improving problem-solving skills through projects and hackathons.
+
+🎯 Looking for Software Development, AI/ML, and Full Stack Internship opportunities.
+
+📍 Bengaluru, Karnataka, India
+
+---
+
+# 🚀 Developer Bio
+
+```javascript
+const janardhan = {
+    location: "Bengaluru, India",
+    education: "B.Tech - Computer Science & Engineering",
+    interests: [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Full Stack Development",
+        "Open Source",
+        "Backend Development"
+    ],
+    currentlyLearning: [
+        "Advanced React",
+        "System Design",
+        "AI Engineering",
+        "Cloud Technologies"
+    ],
+    askMeAbout: [
+        "React",
+        "Node.js",
+        "Python",
+        "MongoDB",
+        "Java",
+        "REST APIs"
+    ],
+    motto: "Learn • Build • Improve • Repeat 🚀"
+}
 ```
 
-</td>
-</tr>
-</table>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:764ba2,100:0d1117&height=3&width=100%"/>
+# 🌱 Currently Learning
 
-## 🔗 Connect With Me
+- 🤖 Artificial Intelligence & Machine Learning
+- ⚛️ Advanced React.js
+- ☁️ Cloud Computing
+- 🏗️ System Design
+- 📊 Data Structures & Algorithms
+- 🔥 Backend Development with Node.js
+
+---
+
+# 💼 Open to Opportunities
+
+> 🚀 **Currently looking for:**
+>
+> - Software Development Internship
+> - Full Stack Developer Internship
+> - AI/ML Internship
+> - Open Source Collaborations
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:janardhan8431chinu96@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/janardhan-v-0004a2354">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Janardhan2006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://janardhan2006.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+<!-- Add your Blog here -->
+
+<!-- Add Certifications here -->
+
+<!-- Add more Social Links here -->
+
+---
+
+# 💻 Tech Stack
+
+## Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+
+---
+
+## Frontend
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+---
+
+## Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+---
+
+## Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+
+---
+
+## Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)
+![Trae IDE](https://img.shields.io/badge/Trae_IDE-3B82F6?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n)
+
+---
+
+## Core Concepts
+
+![DSA](https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-00BCD4?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-FF9800?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-4CAF50?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-673AB7?style=for-the-badge)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Janardhan2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janardhan2006&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Janardhan2006&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Janardhan2006&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Janardhan2006&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🚦 AI Traffic Management System
+
+- 🚗 AI-powered traffic monitoring using YOLO
+- 📊 Real-time dashboard with React, Node.js & MongoDB
+- 🚑 Emergency vehicle prioritization
+- 📈 Intelligent traffic analysis
+
+---
+
+## 🌾 Crop Disease Predictor
+
+- 🌿 AI-powered crop disease detection
+- ☁️ Weather API integration
+- 🤖 Gemini AI recommendations
+- ⚛️ React + Node.js + Python
+
+---
+
+## 🎲 Ludo Game
+
+- 🎮 Browser-based multiplayer-inspired Ludo
+- 💻 HTML, CSS & JavaScript
+- 📱 Responsive user interface
+
+---
+
+# 🎓 Education
+
+### Bachelor of Technology (Computer Science & Engineering)
+
+**Vishweshwar Technology University**
+
+📅 2024 – 2028
+
+---
+
+# 🏅 Achievements
+
+- 🏆 Participated in multiple Inter-College Hackathons
+- 🤖 Built AI & Full Stack Applications
+- 🏏 Represented College in VTU Cricket Tournaments
+- 💡 Passionate about solving real-world problems through technology
+
+---
+
+# 🤝 Soft Skills
+
+- 🧠 Problem Solving
+- 👨‍💼 Leadership
+- 🤝 Teamwork
+- 💬 Communication
+- ⏰ Time Management
+- 🚀 Adaptability
+
+---
+
+# ⚡ Fun Fact
+
+> 💡 I enjoy transforming innovative ideas into real-world AI applications while continuously learning new technologies and contributing to impactful projects.
+
+---
+
+# ✨ Favorite Quote
+
+> **"Success is built one line of code, one lesson, and one challenge at a time."**
+
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117)](https://twitter.com/YOUR_TWITTER_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:jvprakruth@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117)](https://your-portfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Janardhan2006)
+## ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
+
+**If you like my work, consider giving a ⭐ to my repositories!**
+
+**Let's build something amazing together 🚀**
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f5576c,100:0d1117&height=3&width=100%"/>
-
-## 💻 Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,sql&theme=dark&perline=6"/>
-
-**Backend & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=2"/>
-
-**Tools & Version Control**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3"/>
-
-**Cloud & Databases**
-
-<img src="https://skillicons.dev/icons?i=aws,mysql,mongodb&theme=dark&perline=3"/>
-
-**Currently Learning**
-
-<img src="https://skillicons.dev/icons?i=react,tensorflow,pytorch&theme=dark&perline=3"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0d1117&height=3&width=100%"/>
-
-## 📚 Currently Learning
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**⚙️ Dev**
-- ✨ Advanced Node.js & Express.js
-- ⚛️ React.js & Modern Frontend
-- 🔌 REST APIs & Backend Architecture
-
-</td>
-<td width="33%" valign="top">
-
-**🗄️ Systems**
-- 💾 Database Design & Optimization
-- 🧮 Data Structures & Algorithms
-- ☁️ AWS Services & Cloud Infra
-
-</td>
-<td width="33%" valign="top">
-
-**🤖 AI**
-- 🤖 Machine Learning & GenAI
-- 📊 AI Model Deployment
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:764ba2,100:0d1117&height=3&width=100%"/>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Janardhan2006&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&icon_color=00D9FF&border_radius=15"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Janardhan2006&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=f5576c&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&border_radius=15"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janardhan2006&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&border_radius=15"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Janardhan2006&theme=tokyo-night&bg_color=0d1117&color=00D9FF&line=764ba2&point=f5576c&hide_border=true&area=true"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f5576c,100:0d1117&height=3&width=100%"/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Janardhan2006/Janardhan2006/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Janardhan2006/Janardhan2006/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Janardhan2006/Janardhan2006/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0d1117&height=3&width=100%"/>
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-| 🎬 Project | 📝 Description | 🛠️ Tech Stack | ✅ Status |
-|:-----------|:--------------|:-------------|:---------|
-| **[Furniture Industry Management System](https://github.com/Janardhan2006/furniture-management)** | Comprehensive system for furniture business operations | Node.js, React, MongoDB | 🔄 In Progress |
-| **[Birthday Website](https://Janardhan2006.github.io/JENNY_BIRTHDAY/)** | Interactive & festive birthday celebration website | HTML, CSS, JavaScript | ✨ Completed |
-| **[Node.js Projects](https://github.com/Janardhan2006/nodejs-projects)** | Collection of backend projects & experiments | Node.js, Express | 🔄 In Progress |
-| **[AI Projects](https://github.com/Janardhan2006/ai-projects)** | Machine learning & AI model implementations | Python, TensorFlow | 🔄 In Progress |
-| **[AWS Projects](https://github.com/Janardhan2006/aws-projects)** | Cloud infrastructure & automation solutions | AWS, Python | 🔄 In Progress |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:764ba2,100:0d1117&height=3&width=100%"/>
-
-## 🏆 Achievements & Milestones
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🎓_BCA(CS_%26_EH)-Currently_Pursuing-00D9FF?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/📜_AWS_Cloud_Practitioner-Certified-f5576c?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🚀_Problem_Solver-Real_World_Projects-764ba2?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/💪_Lifelong_Learner-Continuous_Growth-39ff14?style=for-the-badge&labelColor=0d1117"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f5576c,100:0d1117&height=3&width=100%"/>
-
-## 🎯 Goals for 2026
-
-- [ ] ✨ Complete advanced Node.js and React.js proficiency
-- [ ] 📦 Build 3+ full-stack projects from ideation to deployment
-- [ ] 🤝 Contribute meaningfully to open-source projects
-- [ ] 🤖 Deploy ML/AI models in production environments
-- [ ] ☁️ Master AWS cloud architecture & services
-- [ ] 🌟 Establish a strong personal brand & portfolio
-- [ ] 👥 Collaborate with like-minded developers & engineers
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0d1117&height=3&width=100%"/>
-
-## 🌍 Open Source & Collaboration
-
-I'm passionate about open-source development and believe in giving back to the community. I'm always open to:
-
-| | |
-|---|---|
-| 🔧 **Contributing** to open-source projects | 💡 **Collaborating** on innovative ideas |
-| 📖 **Sharing** knowledge & learning together | 🤝 **Mentoring** & being mentored |
-| 🚀 **Building** projects that make a difference | |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:764ba2,100:0d1117&height=3&width=100%"/>
-
-## 🎬 Beyond Code
-
-When I'm not coding, you'll find me:
-
-- 📺 Watching tech documentaries and educational content
-- 🎥 Video editing and content creation
-- ✍️ Story writing and creative writing
-- 🌍 Exploring new places and cultures
-- 💪 Staying fit and active
-- 🎵 Listening to music and podcasts
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f5576c,100:0d1117&height=3&width=100%"/>
-
-## 💬 Let's Connect!
-
-<div align="center">
-
-I'd love to hear from you! Whether it's discussing tech, collaborating on projects, or just having a conversation:
-
-💼 Open to **internships** and **freelance opportunities**
-👥 Always interested in **networking** with fellow developers
-📧 Reach out: **[jvprakruth@gmail.com](mailto:jvprakruth@gmail.com)**
-🌐 Visit my portfolio: **[your-portfolio.com](https://your-portfolio.com)**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0d1117&height=3&width=100%"/>
-
-<div align="center">
-
-> **"The beautiful thing about learning is that no one can take it away from you."** — B.B. King
-
-### ⭐ If you find my projects helpful, consider giving them a star!
-
-**Made with ❤️ by Janardhan V**
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Janardhan2006.Janardhan2006&left_color=0d1117&right_color=00D9FF"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5576c,50:764ba2,100:00D9FF&height=120&section=footer"/>
